@@ -4,6 +4,8 @@ package main
 // import files including the fmt package
 import "fmt"
 
+// function
 func main() {
+	// print
 	fmt.Println("Hello, Go!")
 }
