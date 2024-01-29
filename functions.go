@@ -1,7 +1,8 @@
 package main
 import ("fmt")
 
-func myMessage() {
+// parameter consist of parameter and type
+func myMessage(fname string) {
   fmt.Println("I just got executed!")
 }
 
