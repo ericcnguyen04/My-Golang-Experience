@@ -23,3 +23,6 @@ func main() {
   fmt.Println(student2)
   fmt.Println(x)
 }
+
+
+// const
